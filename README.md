@@ -1,2 +1,1 @@
-# rds_aws_tf
-Just to demot he infra cost repo inclusion
+Standalone repo created by terraform
